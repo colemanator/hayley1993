@@ -12,7 +12,7 @@ a {
 
 h4{
   color: #3E3E3E;
-  font-size: 48px;
+  font-size: 18px;
 }
 
 .panel-heading{
@@ -32,10 +32,8 @@ h4{
   border: solid 1px dimgrey;
   text-align: center;
   line-height: 30px;
-  font-size: 36px;
   margin: 20px auto;
   cursor: pointer;
-  padding: 10px;
 }
 
 .hayley-button:hover{
@@ -44,7 +42,7 @@ h4{
 }
 
 .output-wrapper{
-  min-height: 350px;
+  min-height: 200px;
   text-align: center;
 }
 
@@ -54,7 +52,7 @@ h4{
 
 .output{
   margin: 50px 10px;
-  font-size: 20px;
+  font-size: 16px;
   padding: 10px;
 }
 
@@ -68,13 +66,5 @@ h4{
 
   .body{
     background-size: auto;
-  }
-
-  .output{
-    font-size: 30px;
-  }
-
-  .output-wrapper{
-    min-height: 450px;
   }
 }
